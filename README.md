@@ -33,8 +33,8 @@ O objetivo é explorar conceitos de automação, programação embarcada, comuni
 
 | Componente | Pino RP2040 |
 |---|---|
-| OLED SDA | SDA |
-| OLED SCL | SCL |
+| OLED SDA | GP4 |
+| OLED SCL | GP5 |
 | Botão 1 | GPIO 20 |
 | Botão 2 | GPIO 21 |
 | Botão 3 | GPIO 22 |
